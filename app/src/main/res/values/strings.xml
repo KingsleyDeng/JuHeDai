@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">聚合贷</string>
+    <string name="cashFragment">现金贷</string>
+    <string name="consumerFragment">消费贷</string>
+    <string name="creditFragment">信用贷</string>
+</resources>
